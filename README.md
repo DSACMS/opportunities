@@ -4,9 +4,9 @@
 
 Resource for Public Service Internship and Fellowship Opportunities
 
+<!--
 ## Getting Started
 
-<!--
 ### Agency Mission
 
 ### Team Mission
@@ -30,9 +30,9 @@ Example Innersource Project Info
  * [Project Documentation:](https://confluence.cms.gov/)
  * Public Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
  * Follow [@CMSgov](https://twitter.com/cmsgov) on Twitter for updates.
--->
 
 ### Installation
+-->
 
 <!--- Example Install Instructions
 
