@@ -1,13 +1,12 @@
 <!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
 
-# TODO Project Name
+# Opportunities
 
-TODO: Project Description (could match GitHub.com Repo Description)
+Resource for Public Service Internship and Fellowship Opportunities
 
 ## Getting Started
 
-TODO: Example Sections
-
+<!--
 ### Agency Mission
 
 ### Team Mission
@@ -15,7 +14,7 @@ TODO: Example Sections
 ### Project Vision
 
 ### Project Information
-<!-- Example Innersource Project Info
+Example Innersource Project Info
  * [Project Website](https://cms.gov/digital-service-cms)
  * [Project Documentation:](https://confluence.cms.gov/)
  * [Project Sprint/Roadmap:](https://jira.cms.gov/)
@@ -60,10 +59,9 @@ TODO: Example Sections
     `make start`
 
 1. Visit [localhost:9001](https://localhost:9001) to view the server
--->
 
 ### Testing
-
+-->
 ## Contributing
 
 Thank you for considering contributing to an Open Source project of the US
