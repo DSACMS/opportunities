@@ -1,0 +1,29 @@
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 40px;
+    max-width: 90%;
+    color: #0b4778;
+    font-weight: bold;
+}
+
+.text {
+    background: #f7f9fa;
+    background-clip: content-box;
+    padding-bottom: 10px;
+}
+
+.airtable {
+    width: 95%; 
+    padding: 40px;
+    position: fixed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
