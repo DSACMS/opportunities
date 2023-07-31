@@ -32,7 +32,6 @@ Disclosure Policies, see [SECURITY.md](SECURITY.md).
 ## Authors and Maintainers
 
 For more information about our Authors and maintainers, see [MAINTAINERS.md](MAINTAINERS.md).
-A full list of contributors can be found on [https://github.cms.gov/DSACMS/opportunities/graphs/contributors](https://github.cms.gov/DSACMS/opportunities/graphs/contributors).
 
 ## Public domain
 
