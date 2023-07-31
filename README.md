@@ -6,66 +6,14 @@ Resource for Public Service Internship and Fellowship Opportunities to be made e
 
 ## Limitations
 
-This mock is currently run using an airtable account that is not publicly accessible. To embed an airtable with the accurate job listings data, the Airtable Demo.docx file in the repo can provide guidance. This new airtable account will maintain all the job listings and should be regularly managed and updated to stay up to date with all job listings information. Changes made to airtable with job listings will automatically be reflected on webpage.
+This mock is currently run using an airtable account that is not publicly accessible. As a result, the job listings content within the table cannot be modified directly. Alternatively a new Airtable can be embedded into the file by following the instructions outlined in the Airtable Demo.docx file in the repo. This new airtable account will maintain all the job listings and should be regularly managed and updated to stay up to date with all job listings information. Changes made to airtable with job listings will automatically be reflected on webpage without needing to update the code.
 
-<!--
-## Getting Started
+## Usage
 
-### Agency Mission
+This repository is meant to be used as a visual demo of how Airtable can be embedded into a webpage to clearly provide information. To make changes to airtable content, you will need to replace the current airtable embed link with a link that is connected to a directly manageable account. Changes can be made to the text and styling of the mock to fit client needs and provide a more accurate visual of the final product.
 
-### Team Mission
+To make and view changes to these files, you can clone this repo to your device and push changes. 
 
-### Project Vision
-
-### Project Information
-Example Innersource Project Info
- * [Project Website](https://cms.gov/digital-service-cms)
- * [Project Documentation:](https://confluence.cms.gov/)
- * [Project Sprint/Roadmap:](https://jira.cms.gov/)
- * [Project Slack Channel:](https://cmsgov.slack.com/archives/XXXXXXXXXX)
- * [Project Tools/Hosting/Deployment:](https://confluence.cms.gov)
- * Project Keyword(s) for Search: KEYWORD1, KEYWORD2
- * Project Members:
-    * Team Lead, PO, Delivery Lead, Approvers, Trusted Committers etc.
--->
-
-<!-- Example Open Source Info
- * [Project Website](https://cms.gov/digital-service-cms)
- * [Project Documentation:](https://confluence.cms.gov/)
- * Public Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
- * Follow [@CMSgov](https://twitter.com/cmsgov) on Twitter for updates.
-
-### Installation
--->
-
-<!--- Example Install Instructions
-
-1. Clone the repo
-
-    `git clone https://github.com/cmsgov/PROJECT_REPO.git`
-
-1. Setup your development environment
-
-    `python -m venv venv`
-
-1. Install project dependencies
-
-    `pip install -r requirements.txt`
-
-    `yarn install package.json`
-
-1. Run the test suite
-    
-    `pytest tests/tox.ini`
-
-1. Start the webserver
-
-    `make start`
-
-1. Visit [localhost:9001](https://localhost:9001) to view the server
-
-### Testing
--->
 ## Contributing
 
 Thank you for considering contributing to an Open Source project of the US
