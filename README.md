@@ -6,7 +6,11 @@ Resource for Public Service Internship and Fellowship Opportunities to be made e
 
 ## Limitations
 
-This mock is currently run using an airtable account that is not publicly accessible. As a result, the job listings content within the table cannot be modified directly. Alternatively a new Airtable can be embedded into the file by following the instructions outlined in the Airtable Demo.docx file in the repo. This new airtable account will maintain all the job listings and should be regularly managed and updated to stay up to date with all job listings information. Changes made to airtable with job listings will automatically be reflected on webpage without needing to update the code.
+This mock is currently run using an airtable account that is not publicly accessible. As a result, the job listings content within the table cannot be modified directly. 
+
+Even though the airtable isn’t public, if you have an opportunity you’d like us to add, please file (an issue)[https://github.com/dsacms/opportunities/issues/new] on this repository following the ISSUE_TEMPLATE.md, and we’ll notify the maintainers for review.
+
+Alternatively, you can create an independent Airtable file and replace the embed link in the index.html file to make direct updates to the mock. The instructions outlined in the Airtable Demo.docx file in the repo can provide more information on this. This new airtable account will maintain all the job listings and should be regularly managed and updated to stay up to date with all job listings information. Changes made to airtable with job listings will automatically be reflected on webpage without needing to update the code.
 
 ## Usage
 
