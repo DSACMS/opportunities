@@ -15,7 +15,9 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 <!--- ### TODO: If you have 'good-first-issue' or 'easy' labels for newcomers, mention them here.-->
 You can navigate to the index.html and style.css file to look at how the airtable is currently embedded. You can make any formatting changes or changes to general webpage as you please to fit the content and styling to your desired needs.  
 
-However, due to the Airtable account managing the demo content being private, changes cannot be made directly to the job listing content within the table. You can embed your own Airtable by following the instructions listed in the Airtable Demo.docx file in this repo. Please contact shweta.kumar@cms.hhs.gov or nicole.avila@cms.hhs.gov to make changes to airtable content if needed.
+However, due to the Airtable account managing the demo content being private, changes cannot be made directly to the job listing content within the table.Even thought the airtable isn’t public, if you have an opportunity you’d like us to add, please file (an issue)[https://github.com/dsacms/opportunities/issues/new] on this repository following the ISSUE_TEMPLATE.md, and we’ll notify the maintainers for review.
+
+Alternatively, you can create an independent Airtable file and replace the embed link in the index.html file to make direct updates to the mock.
 
 ## Policies
 
