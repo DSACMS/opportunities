@@ -14,7 +14,7 @@ Alternatively, you can create an independent Airtable file and replace the embed
 
 ## Usage
 
-This repository is meant to be used as a visual demo of how Airtable can be embedded into a webpage to clearly provide information. To make changes to airtable content, you will need to replace the current airtable embed link with a link that is connected to a directly manageable account. Changes can be made to the text and styling of the mock to fit client needs and provide a more accurate visual of the final product.
+This repository is meant to be used as a visual demo of how Airtable can be embedded into a webpage to clearly provide information. Changes can be made to the text and styling of the mock to fit client needs and provide a more accurate visual of the final product.
 
 To make and view changes to these files, you can clone this repo to your device and push changes. 
 
