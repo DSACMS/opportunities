@@ -15,7 +15,7 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 <!--- ### TODO: If you have 'good-first-issue' or 'easy' labels for newcomers, mention them here.-->
 You can navigate to the index.html and style.css file to look at how the airtable is currently embedded. You can make any formatting changes or changes to general webpage as you please to fit the content and styling to your desired needs.  
 
-However, due to the airtable account managing the demo Airtable content being private, changes cannot be made directly to the airtable content. You can embed your own airtable by following the instructions listed in the Airtable Demo.docx file in this repo. Please contact shweta.kumar@cms.hhs.gov or nicole.avila@cms.hhs.gov to make changes to airtable content if needed.
+However, due to the Airtable account managing the demo content being private, changes cannot be made directly to the job listing content within the table. You can embed your own Airtable by following the instructions listed in the Airtable Demo.docx file in this repo. Please contact shweta.kumar@cms.hhs.gov or nicole.avila@cms.hhs.gov to make changes to airtable content if needed.
 
 ## Policies
 
