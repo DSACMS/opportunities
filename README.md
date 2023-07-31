@@ -1,8 +1,12 @@
 <!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
 
-# Opportunities
+# Job Opportunities Web Page Mock
 
-Resource for Public Service Internship and Fellowship Opportunities
+Resource for Public Service Internship and Fellowship Opportunities to be made easily accessible to the public.
+
+## Limitations
+
+This mock is currently run using an airtable account that is not publicly accessible. To embed an airtable with the accurate job listings data, the Airtable Demo.docx file in the repo can provide guidance. This new airtable account will maintain all the job listings and should be regularly managed and updated to stay up to date with all job listings information. Changes made to airtable with job listings will automatically be reflected on webpage.
 
 <!--
 ## Getting Started
