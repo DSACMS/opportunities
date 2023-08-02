@@ -1,8 +1,12 @@
 <!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
 
-# Job Opportunities Web Page Mock
+# HHS Inventory of Data Fellowships and Internships Mock
 
-Resource for Public Service Internship and Fellowship Opportunities to be made easily accessible to the public.
+This page shares currently active opportunities for recurring fellowship and internships, related to data science or technology, for work in the U.S. Department of Health and Human Services (HHS). The people of HHS are essential to its vision of making data meaningfully usable and actively used across the Department. Fellowships and internships provide a unique opportunity to learn about government work and to contribute to HHS’ mission of enhancing the health and well-being of all Americans.
+
+The inventory includes both federal-wide programs, and programs specifically for HHS or subcomponents. Some programs are specifically focused on data science or technology, while others are broader but provide an opportunity to incorporate data-driven work.
+
+More information about each opportunity can be found by clicking on the listing in the table. The listings can be filtered by selecting the filter icon and adding a condition.
 
 ## Limitations
 
