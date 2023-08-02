@@ -1,15 +1,13 @@
 ## Issue Report
 
-module-name: One line summary of the issue (less than 72 characters)
+Declare if requestion the addition or removal of jobs. 
 
-### Expected behavior
+### Submitting new Job Listings
 
-As concisely as possible, describe the expected behavior.
+Attach an Excel file with the following column format:
 
-### Actual behavior
+Program Name; Host Agency; Program Description; Target Applicant; Education Eligibility; Other Eligibility; Program Duration; Full-time or Part-time; Application Timeline; Financial Support; Hiring Authority; Link to More Information; Date Entry Last Updated; Tags
 
-As concisely as possible, describe the observed behavior.
+### Removing Job Listings
 
-### Steps to reproduce the behavior
-
-List all relevant steps to reproduce the observed behavior.
+Please list the Program Names of the job opportunities that you wish to remove in a bulleted list.
