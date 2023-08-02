@@ -18,20 +18,14 @@ This repository is meant to be used as a visual demo of how Airtable can be embe
 
 To make and view changes to these files, you can clone this repo to your device and push changes. 
 
-## Contributing
-
-Thank you for considering contributing to an Open Source project of the US
-Government! For more information about our contribution guidelines, see
-[CONTRIBUTING.md](CONTRIBUTING.md)
-
 ## Security
 
 For more information about our Security, Vulnerability, and Responsible
 Disclosure Policies, see [SECURITY.md](SECURITY.md).
 
-## Authors and Maintainers
+## Authors
 
-For more information about our Authors and maintainers, see [MAINTAINERS.md](MAINTAINERS.md).
+For more information about our Authors, see https://github.com/DSACMS/opportunities/graphs/contributors
 
 ## Public domain
 
