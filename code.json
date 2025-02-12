@@ -1,0 +1,47 @@
+{
+  "name": "opportunities",
+  "description": "Resource for Public Service Internship and Fellowship Opportunities",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/opportunities",
+  "vcs": "git",
+  "laborHours": 1460,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "HTML",
+    "CSS"
+  ],
+  "maintenance": "",
+  "date": {
+    "created": "2023-06-29T15:55:54Z",
+    "lastModified": "2025-02-12T02:50:47Z",
+    "metaDataLastUpdated": "2025-02-12T02:52:38.555Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0
+}
