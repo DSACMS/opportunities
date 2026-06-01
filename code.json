@@ -11,7 +11,9 @@
         "URL": "https://github.com/DSACMS/opportunities/blob/main/LICENSE.md"
       }
     ],
-    "usageType": ["openSource"],
+    "usageType": [
+      "openSource"
+    ],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -23,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1896,
+  "laborHours": 1942,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -48,8 +50,8 @@
   "partners": [],
   "date": {
     "created": "2023-06-29T15:55:54Z",
-    "lastModified": "2025-11-07T15:51:14Z",
-    "metadataLastUpdated": "2025-11-07T15:53:05.886Z"
+    "lastModified": "2025-11-07T16:04:16Z",
+    "metadataLastUpdated": "2026-06-01T04:18:19.064Z"
   },
   "tags": [
     "repository"
